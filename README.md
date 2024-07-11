@@ -1,2 +1,2 @@
-# Web-Scraping-Product-Reviews
-Web Scraping Online Product Reviews from the Skroutz website [ https://www.skroutz.gr/ ] using the Beautiful Soup Python Package
+# Web-Scraping product reviews
+Web Scraping Online Product Reviews from the [Skroutz](https://www.skroutz.gr/) website using the Beautiful Soup Python Package
